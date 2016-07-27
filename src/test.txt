@@ -1,4 +1,4 @@
 This makes sense
-
+also config user.name
 use 
 git@github.com-sriankits:sriankits/test-git.git
